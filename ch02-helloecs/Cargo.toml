@@ -1,13 +1,12 @@
 [package]
 authors = ["Nuno Martins <nmartins10@gmail.com>"]
 edition = "2018"
-name = "roguelike-tutorial"
+name = "ch02-helloecs"
 version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[workspace]
-members = [
-  "ch01-hellorust",
-  "ch02-helloecs",
-]
+[dependencies]
+rltk = "0.8.1"
+specs = "0.16.1"
+specs-derive = "0.4.1"
