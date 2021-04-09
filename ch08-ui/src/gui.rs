@@ -1,4 +1,4 @@
-use rltk::{Console, Rltk, RGB};
+use rltk::{Rltk, RGB};
 use specs::prelude::*;
 
 use crate::{gamelog::GameLog, CombatStats, Map, Name, Player, Point, Position};
