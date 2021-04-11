@@ -16,4 +16,5 @@ members = [
   "ch06-monsters",
   "ch07-damage",
   "ch08-ui",
+  "ch09-items",
 ]
