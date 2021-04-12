@@ -1,6 +1,6 @@
 use crate::{
-    map, random_table::RandomTable, Consumable, InflictsDamage, Item, ProvidesHealing, Ranged,
-    Rect, SerializeMe, MAP_WIDTH,
+    random_table::RandomTable, Consumable, InflictsDamage, Item, ProvidesHealing, Ranged, Rect,
+    SerializeMe, MAP_WIDTH,
 };
 use specs::saveload::{MarkedBuilder, SimpleMarker};
 use std::{collections::HashMap, usize};
@@ -13,7 +13,6 @@ use rltk::{RandomNumberGenerator, RGB};
 use specs::prelude::*;
 
 const MAX_MONSTERS: i32 = 4;
-const MAX_ITEMS: i32 = 2;
 
 /// Spawns the player and returns his/her entity object
 pub fn player(ecs: &mut World, player_x: i32, player_y: i32) -> Entity {
