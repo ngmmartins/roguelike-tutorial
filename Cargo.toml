@@ -18,4 +18,5 @@ members = [
   "ch08-ui",
   "ch09-items",
   "ch10-ranged",
+  "ch11-loadsave",
 ]
