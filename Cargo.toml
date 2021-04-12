@@ -19,4 +19,5 @@ members = [
   "ch09-items",
   "ch10-ranged",
   "ch11-loadsave",
+  "ch12-delvingdeeper",
 ]
