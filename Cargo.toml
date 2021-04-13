@@ -23,4 +23,5 @@ members = [
   "ch13-difficulty",
   "ch14-gear",
   "ch16-nicewalls",
+  "ch17-blood",
 ]
