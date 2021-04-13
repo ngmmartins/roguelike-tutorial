@@ -21,4 +21,5 @@ members = [
   "ch11-loadsave",
   "ch12-delvingdeeper",
   "ch13-difficulty",
+  "ch14-gear",
 ]
