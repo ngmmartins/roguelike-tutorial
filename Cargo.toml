@@ -25,4 +25,5 @@ members = [
   "ch16-nicewalls",
   "ch17-blood",
   "ch18-particles",
+  "ch19-food",
 ]
