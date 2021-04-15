@@ -27,4 +27,5 @@ members = [
   "ch18-particles",
   "ch19-food",
   "ch20-magicmapping",
+  "ch21-rexmenu",
 ]
